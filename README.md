@@ -1,6 +1,6 @@
 Python 3.9
 
-# alohadbf python module
+# alohadbf module
 
 Goal: read data from 'NCR Aloha POS' dbf-files, filter and prepare to using in external systems (for example in 'UCS Storehouse')
 

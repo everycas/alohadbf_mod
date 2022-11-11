@@ -14,5 +14,5 @@ Structure:
 # Instruction
 
 1. from dbf_res import AlohaPOSDbf
-2. DBF = AlohaPOSDbf
+2. DBF = AlohaPOSDbf()
 3. Use this object in your project (as example, see AlohaSH4 or AlohaSH5 projects here)
